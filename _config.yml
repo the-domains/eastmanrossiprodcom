@@ -1,0 +1,65 @@
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: eastmanrossiprod.com
+layout_spectrum: 0.32053330657072365
+typography_spectrum: 0.2848882544785738
+color:
+  brandStrength: 0.5032899985089898
+  lightness: 0.22831569286063313
+  saturation: 0.4235638724640012
+  rhythmicContrast: 0.7318170233629644
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9a8617a5-abd6-4284-807d-c5a113f7d74c.png">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/9a8617a5-abd6-4284-807d-c5a113f7d74c.png
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+title: EASTMAN ROSSI PRODUCTIONS
+description: >-
+  ER Productions is an L.A. based TV and Film Production Company focused on
+  creating original and real-life character driven stories. If you have a story
+  to tell let us help you bring it to the BIG screen.  We bring the utmost
+  enthusiasm and commitment to both the art and the business of tv and
+  filmmaking development and production.
+purpose:
+  - type: contact
+    url: 'tel:6265838392'
+    label: Call 6265838392
+  - type: contact
+    url: 'mailto:eastmanrossiprod@aol.com'
+    label: Contact us for more information
+github: true
+author:
+  name: Lynn Eastman-Rossi
+  email: eastmanrossiprod@gmail.com
+  url: 'http://eastmanrossiprod.com'
